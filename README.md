@@ -19,7 +19,7 @@
 
 ## 📥 Установка
 
-**Скачайте архив:** Russian chat for english version.7z.
+**Скачайте архив:** [Russian chat for english version.7z.](https://github.com/wxndrxus/cod4-russian-fonts/releases/tag/1.0)
 
 - **Файл: localized_code_post_gfx_mp.ff**
 - - Перейдите в папку `zone/english`.
